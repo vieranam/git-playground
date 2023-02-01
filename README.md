@@ -7,3 +7,7 @@
   + From: 보내는 계정의 이메일 주소 ex) xxx@gmail.com
   + To: 받는 이메일 주소 ex) yyy@gmail.com
   - 속성값을 다 입력했다면, SendEmailFlow 프로세서 그룹을 실행합니다.
+
+* 빨강
+  * 녹색
+    * 파랑
